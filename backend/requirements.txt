@@ -4,5 +4,7 @@ pymongo
 python-dotenv
 pandas
 flask
-pymongo
-python-dotenv
+
+dnspython
+httpx
+
